@@ -1,15 +1,15 @@
-# Fundamentos
+# Aprendices-Geek
+Bienvenido a Academia Geek
 
-En este repositorio es destinado a profundizar en los conceptos de JavaScript y sus nuevos elementos y usos, esta unidad es complementaria a los demás conceptos básicos, vas a encontrar 7 carpetas que contienen:
-- Teoría y breve explicación del tema a tratat
-- Ejercicios paso a paso y ver en ejecución los conceptos aprendidos
-- Ejercicios propuestos para complementar el aprendizaje adquirido.
+En este curso, encontraras un conjunto de lecciones y videos que te guiaran en tu proceso de formación. El curso está construido para ser desarrollado por módulos, cada uno de los módulos tiene lecciones 📓 y videos 📺 sobre el contenido que deseas aprender.
 
-Los temas que vas a encontrar son los siguientes: 
-1. Conceptos básicos (repaso de algoritmos)
-2. Objetos en JavaScript
-3. Concepto de Herencia y uso de Clases
-4. Programación Funcional.
-5. Fundamentos de Asincronismo
-6. Promesas
-7. Realizando Peticiones
+## Objetivo del curso:
+
+Adquirir los conocimientos esenciales para realizar aplicaciones web dinámicas haciendo uso de HTML, CSS y Javascript. Con este curso se pretende que los beneficiarios tengan los conceptos esenciales que se requieren para introducirse en el camino de formación como desarrolladores web y sirva como elementos de línea base de las tecnologías necesarias para su proceso de formación mediante una metodología orientada a realizar entregables (proyectos y retos) cercanos a la exigencia de un entorno laboral.
+
+## Contenido del curso:
+1. HTML y CSS
+2. Fundamentos de JavaScript
+3. Fundamentos de Git y GitHub
+
+
